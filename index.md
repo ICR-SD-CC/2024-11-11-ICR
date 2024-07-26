@@ -3,16 +3,16 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "ICR Sutton"        
-address: "Sutton: SRD Ground Floor"
+venue: "ICR Chelsea"        
+address: "Chelsea: Lecture theatre"
 country: "uk"
 language: "en"
-latitude: "51.34489470306327"        # Sutton 51.34489470306327, -0.1888057498478897 and Chelsea = 51/0
-longitude: "-0.1888057498478897"
-humandate: "Wed Oct 09, 2024"
-humantime: "9:00 am - 5:00 pm"
-startdate: 2024-10-09
-enddate: 2024-10-09
+latitude: "51.49007489779152"        # Sutton 51.34489470306327, -0.1888057498478897 and Chelsea = 51.49007489779152, -0.1745264599642147
+longitude: "-0.1745264599642147"
+humandate: "Mon Nov 11, 2024 and Mon Nov 18, 2024"
+humantime: "13:00 pm - 16:30 pm"
+startdate: 2024-11-11
+enddate: 2024-11-18
 instructor: ["Rachel Alcraft"]
 helper: ["tbc"]
 email: ["rachel.alcraft@icr.ac.uk"]
