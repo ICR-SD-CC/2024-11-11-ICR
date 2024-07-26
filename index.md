@@ -9,10 +9,10 @@ country: "uk"
 language: "en"
 latitude: "51.34489470306327"        # Sutton 51.34489470306327, -0.1888057498478897 and Chelsea = 51/0
 longitude: "-0.1888057498478897"
-humandate: "Sep 02, 2024"
+humandate: "Oct 09, 2024"
 humantime: "9:00 am - 5:00 pm"
-startdate: 2024-09-02
-enddate: 2024-09-02
+startdate: 2024-10-09
+enddate: 2024-10-09
 instructor: ["Rachel Alcraft"]
 helper: ["tbc"]
 email: ["rachel.alcraft@icr.ac.uk"]
