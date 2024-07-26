@@ -9,7 +9,7 @@ country: "uk"
 language: "en"
 latitude: "51.49007489779152"        # Sutton 51.34489470306327, -0.1888057498478897 and Chelsea = 51.49007489779152, -0.1745264599642147
 longitude: "-0.1745264599642147"
-humandate: "Mon Nov 11, 2024 and Mon Nov 18, 2024"
+humandate: "Mon Nov 11 2024 and Mon Nov 18, 2024"
 humantime: "13:00 pm - 16:30 pm"
 startdate: 2024-11-11
 enddate: 2024-11-18
